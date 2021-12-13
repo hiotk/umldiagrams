@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T08:18:54.980Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="L-b5SlGkU-Om9-fT3YuY" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T08:43:24.272Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="YjEqyvDS6nvYeV18vSoL" version="15.9.4" type="github">
   <diagram id="EdudkW2aPHIdIt6Wkw1W" name="Page-1">
-    <mxGraphModel dx="1876" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2188" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,10 +184,12 @@
         <mxCell id="uSqtEpiTZWyw5gjkjIYF-46" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-43">
           <mxGeometry y="60" width="320" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="uSqtEpiTZWyw5gjkjIYF-75" style="edgeStyle=elbowEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.001;entryY=0.095;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uSqtEpiTZWyw5gjkjIYF-52" target="uSqtEpiTZWyw5gjkjIYF-28">
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-75" style="edgeStyle=elbowEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.001;entryY=0.095;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uSqtEpiTZWyw5gjkjIYF-52" target="uSqtEpiTZWyw5gjkjIYF-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="540" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="870" y="1040" />
+              <mxPoint x="820" y="1360" />
               <mxPoint x="980" y="555" />
               <mxPoint x="990" y="550" />
               <mxPoint x="960" y="540" />
@@ -205,7 +207,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uSqtEpiTZWyw5gjkjIYF-52" value="ProjectBuildingView/项目概览" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1430" width="380" height="86" as="geometry" />
+          <mxGeometry x="660" y="1410" width="380" height="86" as="geometry" />
         </mxCell>
         <mxCell id="uSqtEpiTZWyw5gjkjIYF-53" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-52">
           <mxGeometry y="26" width="380" height="26" as="geometry" />
@@ -237,28 +239,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uSqtEpiTZWyw5gjkjIYF-79" value="MaterialsLoader/效果工具" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="870" width="300" height="86" as="geometry" />
+          <mxGeometry x="320" y="870" width="370" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="uSqtEpiTZWyw5gjkjIYF-80" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-79">
-          <mxGeometry y="26" width="300" height="26" as="geometry" />
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-80" value="+ materialsJsonPromise: 获取材质库" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-79">
+          <mxGeometry y="26" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-98" value="+ meshInfosJsonPromise: 获取几何体信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-79">
+          <mxGeometry y="52" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-99" value="+ meshRenderJsonPromise: 获取材质索引" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-79">
+          <mxGeometry y="78" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-100" value="+ textureMapPromise: 获取图片映射关系" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-79">
+          <mxGeometry y="104" width="370" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-101" value="+ meshMaterialsMapPromise: 构建材质和几何体的映射关系" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-79">
+          <mxGeometry y="130" width="370" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uSqtEpiTZWyw5gjkjIYF-81" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-79">
-          <mxGeometry y="52" width="300" height="8" as="geometry" />
+          <mxGeometry y="156" width="370" height="8" as="geometry" />
         </mxCell>
         <mxCell id="uSqtEpiTZWyw5gjkjIYF-82" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-79">
-          <mxGeometry y="60" width="300" height="26" as="geometry" />
+          <mxGeometry y="164" width="370" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uSqtEpiTZWyw5gjkjIYF-83" value="PEloader/模型工具loader" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1260" width="340" height="86" as="geometry" />
+          <mxGeometry x="1071" y="1169" width="340" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="uSqtEpiTZWyw5gjkjIYF-84" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-83">
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-84" value="+ loadSagas: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-83">
           <mxGeometry y="26" width="340" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uSqtEpiTZWyw5gjkjIYF-85" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-83">
           <mxGeometry y="52" width="340" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="uSqtEpiTZWyw5gjkjIYF-86" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-83">
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-86" value="+ loadSagas(type): 按分类加载模型工具的管道" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-83">
           <mxGeometry y="60" width="340" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-102" value="+ loadMeshes(type): 按分类加载模型工具的模型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="uSqtEpiTZWyw5gjkjIYF-83">
+          <mxGeometry y="86" width="340" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uSqtEpiTZWyw5gjkjIYF-87" value="CardLabel" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="1720" y="190" width="160" height="86" as="geometry" />
@@ -283,6 +300,29 @@
           <mxGeometry x="0.5776" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-95" value="常量&lt;br&gt;cdn路径&lt;br&gt;模型服务路径&lt;br&gt;摄像机尺寸转换&lt;br&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-97" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0;exitY=0;exitDx=100;exitDy=60;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSqtEpiTZWyw5gjkjIYF-96" target="uSqtEpiTZWyw5gjkjIYF-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-96" value="加载完成后要有回掉&lt;br&gt;同时材质要有缓存&lt;br&gt;模型组提供接口，有更新才更新" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="870" width="140" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-106" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uSqtEpiTZWyw5gjkjIYF-105" target="uSqtEpiTZWyw5gjkjIYF-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1470" y="1169" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uSqtEpiTZWyw5gjkjIYF-105" value="改进目标&lt;br&gt;实现按需加载&lt;br&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="1210" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
