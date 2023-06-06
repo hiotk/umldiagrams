@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T06:33:50.212Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="keBmh72dUc4LneigRY8y" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-06T09:51:21.637Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VGfTKSu4Vbzw5w4QZslq" version="21.3.7" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
-    <mxGraphModel dx="3516" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3102" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -647,7 +647,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wLLbrtgMV4Qhfo6VN03M-68" value="&lt;br&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="wLLbrtgMV4Qhfo6VN03M-66" vertex="1">
+        <mxCell id="wLLbrtgMV4Qhfo6VN03M-68" value="effect_function" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="wLLbrtgMV4Qhfo6VN03M-66" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1109,7 +1109,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3dsZxtLpwyuW_hVhZeS4-70" value="玄龟&lt;br&gt;2级 10血&lt;br&gt;特性：&lt;br&gt;水属性&lt;br&gt;&lt;br&gt;故事：&lt;br&gt;力量很大，一般的重物无法满足它，喜欢背负大山&lt;br&gt;&lt;br&gt;普攻：撕咬，消耗2费，造成2点物理伤害&lt;br&gt;技能1：甲盾，消耗3费，造成1点水属性伤害，同时生成甲盾，生成2点护盾，每一次可以抵消一半的伤害&lt;br&gt;大招：泰山压顶，消耗3费，3能量，造成4点水系伤害，并使对方石化一回合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3dsZxtLpwyuW_hVhZeS4-70" value="玄龟&lt;br&gt;2级 10血&lt;br&gt;特性：底力，战斗中每回合回复一点hp&lt;br&gt;水属性&lt;br&gt;&lt;br&gt;故事：&lt;br&gt;力量很大，一般的重物无法满足它，喜欢背负大山&lt;br&gt;&lt;br&gt;普攻：撕咬，消耗2费，造成2点物理伤害&lt;br&gt;技能1：甲盾，消耗3费，造成1点水属性伤害，同时生成甲盾，生成2点护盾，每一次可以抵消一半的伤害&lt;br&gt;大招：泰山压顶，消耗3费，3能量，造成4点水系伤害，并使对方石化一回合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-750" y="2150" width="290" height="470" as="geometry" />
         </mxCell>
         <mxCell id="3dsZxtLpwyuW_hVhZeS4-71" value="火鸟&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1139,16 +1139,16 @@
         <mxCell id="3dsZxtLpwyuW_hVhZeS4-79" value="魔灵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-750" y="3740" width="290" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="sGzJf6pcE_rJ0hst8sau-1" value="大钢蛇" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sGzJf6pcE_rJ0hst8sau-1" value="大钢蛇" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="3740" width="290" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="sGzJf6pcE_rJ0hst8sau-2" value="圣灵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sGzJf6pcE_rJ0hst8sau-2" value="圣灵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="114" y="3730" width="290" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="sGzJf6pcE_rJ0hst8sau-3" value="节奏快，克制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sGzJf6pcE_rJ0hst8sau-3" value="节奏快，克制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1140" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sGzJf6pcE_rJ0hst8sau-4" value="虎头蜂&lt;br&gt;2级 10血&lt;br&gt;特性：&lt;br&gt;水属性&lt;br&gt;&lt;br&gt;故事：&lt;br&gt;力量很大，一般的重物无法满足它，喜欢背负大山&lt;br&gt;&lt;br&gt;普攻：分身，消耗2费，生成一个分身&lt;br&gt;技能1：毒针，消耗3费，造成1点毒属性伤害，并使对方进入中毒状态&lt;br&gt;大招：连续刺击，消耗3费，2能量，造成4点毒伤害，并且每多一个分身，多2点伤害" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sGzJf6pcE_rJ0hst8sau-4" value="虎头蜂&lt;br&gt;2级 10血&lt;br&gt;特性：有时会让接触到自己的对手变为中毒状态。&lt;br&gt;水属性&lt;br&gt;&lt;br&gt;故事：&lt;br&gt;力量很大，一般的重物无法满足它，喜欢背负大山&lt;br&gt;&lt;br&gt;普攻：分身，消耗2费，生成一个分身&lt;br&gt;技能1：毒针，消耗3费，造成1点毒属性伤害，并使对方进入中毒状态&lt;br&gt;大招：连续刺击，消耗3费，2能量，造成4点毒伤害，并且每多一个分身，多2点伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1140" y="2150" width="290" height="470" as="geometry" />
         </mxCell>
       </root>
