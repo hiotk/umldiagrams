@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T13:52:40.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gv9Fx-urRB4Yi7idxQUH" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T14:21:00.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8FOEVAAVRfMd-QqXwCOa" version="21.3.7" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
     <mxGraphModel dx="4128" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1175,6 +1175,36 @@
         </mxCell>
         <mxCell id="iqc3dtCRgfqG9h4oya7Q-1" value="土蛤蟆&lt;br&gt;2级 8血&lt;br&gt;特性：上场后自带土遁，能抵消3次伤害，每次抵消1点&lt;br&gt;土属性&lt;br&gt;&lt;br&gt;故事：&lt;br&gt;虽然长相很丑，但却很重感情和义气&lt;br&gt;&lt;br&gt;普攻：吐舌，消耗2费，造成2点物理伤害&lt;br&gt;技能1：扔泥巴，消耗3费，造成3点土属性伤害&lt;br&gt;大招：地震，消耗3费，3能量，造成5点土属性伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="1630" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Hbo6Y5as3fw228tz0P7n-4" value="解毒药：&lt;br&gt;1费，解除一只符灵毒状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1980" y="2590" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Hbo6Y5as3fw228tz0P7n-5" value="伤药：&lt;br&gt;1费，回复一只符灵2点血" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="2590" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Hbo6Y5as3fw228tz0P7n-6" value="烧伤药：&lt;br&gt;1费，回复灼伤状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1980" y="3040" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Hbo6Y5as3fw228tz0P7n-7" value="解麻药：&lt;br&gt;1费，回复麻痹状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="3030" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Hbo6Y5as3fw228tz0P7n-8" value="解冻药：&lt;br&gt;1费，回复冻结状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="3030" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Hbo6Y5as3fw228tz0P7n-9" value="万能药：&lt;br&gt;2费，解除一切异常状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1980" y="3507" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Hbo6Y5as3fw228tz0P7n-10" value="攻击药：&lt;br&gt;0费，下一次攻击，伤害+1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="3507" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Hbo6Y5as3fw228tz0P7n-11" value="特攻药：&lt;br&gt;2费，下一次大招攻击，伤害+3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1170" y="3507" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Hbo6Y5as3fw228tz0P7n-12" value="快攻药：&lt;br&gt;0费，下一次攻击花费-1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1980" y="3950" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Hbo6Y5as3fw228tz0P7n-13" value="慢效药：&lt;br&gt;1费，每回合结束回复一点血，持续3回合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="3940" width="290" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
