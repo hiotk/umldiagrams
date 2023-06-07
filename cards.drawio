@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T07:07:00.056Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1Vi62Zvdgk7znflpg42I" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T13:52:40.804Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gv9Fx-urRB4Yi7idxQUH" version="21.3.7" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
-    <mxGraphModel dx="3388" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4128" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1128,7 +1128,7 @@
         <mxCell id="3dsZxtLpwyuW_hVhZeS4-71" value="火鸟&lt;br&gt;2级 7血&lt;br&gt;特性：火之新生，第一次被击倒时复活，并给3点生命&lt;br&gt;火属性&lt;br&gt;&lt;br&gt;故事：&lt;br&gt;可以操纵火焰的传说灵兽，据说能从火焰中重生&lt;br&gt;&lt;br&gt;普攻：&lt;br&gt;普攻：火盾，消耗2费，生成火盾2回合，免疫1点伤害，并能使得火属性伤害+1&lt;br&gt;技能1：火之翼，消耗3费，造成3点火焰伤害&lt;br&gt;技能2：天火，消耗3费，召唤陨石到场上，持续两回合，每回合对对方造成1点火属性伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="2150" width="290" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="3dsZxtLpwyuW_hVhZeS4-72" value="雷鸟&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2级 7血&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;特性：火之新生，第一次被击倒时复活，并给3点生命&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;火属性&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;故事：&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;可以操纵火焰的传说灵兽，据说能从火焰中重生&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;普攻：&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;普攻：火盾，消耗2费，生成火盾2回合，免疫1点伤害，并能使得火属性伤害+1&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;技能1：火之翼，消耗3费，造成3点火焰伤害&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;技能2：天雷，消耗3费，召唤陨石到场上，持续两回合，每回合对对方造成1点火属性伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3dsZxtLpwyuW_hVhZeS4-72" value="雷鸟&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2级 7血&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;特性：雷之核心，第一次被击倒时复活，并给3点生命&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;火属性&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;故事：&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;煽下翅膀就会落下雷电，传说中能制造雷阵雨的灵兽&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;普攻：&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;普攻：雷击，消耗2费，造成1点雷电伤害&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;技能1：雷霆锁阵，消耗3费，造成2点雷电伤害，并锁定对手无法下场&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;技能2：天雷，消耗3费，召唤陨石到场上，持续两回合，每回合对对方造成1点火属性伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="2150" width="290" height="470" as="geometry" />
         </mxCell>
         <mxCell id="3dsZxtLpwyuW_hVhZeS4-73" value="冰鸟&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1167,13 +1167,13 @@
         <mxCell id="B0AEZhPZEqBKlYOn6z56-5" value="接力卡：&lt;br&gt;2费，切换到下一个角色，&lt;br&gt;并将当前角色的充能给到下一个角色&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1560" y="1580" width="290" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="B0AEZhPZEqBKlYOn6z56-6" value="道馆：&lt;br&gt;2费，切换下一个角色不视为快速行动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="B0AEZhPZEqBKlYOn6z56-6" value="道馆：&lt;br&gt;2费，切换下一个角色不视为快速行动,，每回合一次" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1560" y="2050" width="290" height="400" as="geometry" />
         </mxCell>
         <mxCell id="B0AEZhPZEqBKlYOn6z56-7" value="医馆：&lt;br&gt;2费，每回合治疗场上角色2点hp，持续2回合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1980" y="2050" width="290" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="iqc3dtCRgfqG9h4oya7Q-1" value="土蛤蟆&lt;br&gt;2级 10血&lt;br&gt;特性：威慑，降低敌人攻击&lt;br&gt;木属性&lt;br&gt;&lt;br&gt;故事：&lt;br&gt;很少现身，但一旦发怒，有时连大地都能毁灭&lt;br&gt;&lt;br&gt;普攻：龙爪，消耗2费，造成2点物理伤害&lt;br&gt;技能1：龙卷，消耗3费，造成2点木属性伤害，并且每使用一次，伤害加1&lt;br&gt;大招：龙怒，消耗3费，3能量，造成4点木属性伤害，返还2点充能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iqc3dtCRgfqG9h4oya7Q-1" value="土蛤蟆&lt;br&gt;2级 8血&lt;br&gt;特性：上场后自带土遁，能抵消3次伤害，每次抵消1点&lt;br&gt;土属性&lt;br&gt;&lt;br&gt;故事：&lt;br&gt;虽然长相很丑，但却很重感情和义气&lt;br&gt;&lt;br&gt;普攻：吐舌，消耗2费，造成2点物理伤害&lt;br&gt;技能1：扔泥巴，消耗3费，造成3点土属性伤害&lt;br&gt;大招：地震，消耗3费，3能量，造成5点土属性伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="1630" width="290" height="470" as="geometry" />
         </mxCell>
       </root>
