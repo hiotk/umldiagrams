@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-06T14:29:38.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pDO_ecdYxzZ_m9Ukeupk" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T01:56:16.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jCM2uNBZdlVdTyHsqWRg" version="21.3.7" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
-    <mxGraphModel dx="4128" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3509" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -652,15 +652,15 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B0AEZhPZEqBKlYOn6z56-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="wLLbrtgMV4Qhfo6VN03M-38">
+        <mxCell id="B0AEZhPZEqBKlYOn6z56-1" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="wLLbrtgMV4Qhfo6VN03M-38" vertex="1">
           <mxGeometry y="330" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B0AEZhPZEqBKlYOn6z56-2" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="B0AEZhPZEqBKlYOn6z56-1">
+        <mxCell id="B0AEZhPZEqBKlYOn6z56-2" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="B0AEZhPZEqBKlYOn6z56-1" vertex="1">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B0AEZhPZEqBKlYOn6z56-3" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="B0AEZhPZEqBKlYOn6z56-1">
+        <mxCell id="B0AEZhPZEqBKlYOn6z56-3" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="B0AEZhPZEqBKlYOn6z56-1" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1161,17 +1161,20 @@
         <mxCell id="sGzJf6pcE_rJ0hst8sau-3" value="节奏快，克制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1140" y="2090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sGzJf6pcE_rJ0hst8sau-4" value="虎头蜂&lt;br&gt;2级 10血&lt;br&gt;特性：有时会让接触到自己的对手变为中毒状态。&lt;br&gt;水属性&lt;br&gt;&lt;br&gt;故事：&lt;br&gt;力量很大，一般的重物无法满足它，喜欢背负大山&lt;br&gt;&lt;br&gt;普攻：分身，消耗2费，生成一个分身&lt;br&gt;技能1：毒针，消耗3费，造成1点毒属性伤害，并使对方进入中毒状态&lt;br&gt;大招：连续刺击，消耗3费，2能量，造成4点毒伤害，并且每多一个分身，多2点伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sGzJf6pcE_rJ0hst8sau-4" value="虎头蜂&lt;br&gt;2级 10血&lt;br&gt;特性：有时会让接触到自己的对手变为中毒状态。&lt;br&gt;金属性&lt;br&gt;&lt;br&gt;故事：&lt;br&gt;力量很大，一般的重物无法满足它，喜欢背负大山&lt;br&gt;&lt;br&gt;普攻：分身，消耗2费，生成一个分身&lt;br&gt;技能1：毒针，消耗3费，造成1点毒属性伤害，并使对方进入中毒状态&lt;br&gt;大招：连续刺击，消耗3费，2能量，造成4点毒伤害，并且每多一个分身，多2点伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1140" y="2150" width="290" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="B0AEZhPZEqBKlYOn6z56-5" value="接力卡：&lt;br&gt;2费，切换到下一个角色，&lt;br&gt;并将当前角色的充能给到下一个角色&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B0AEZhPZEqBKlYOn6z56-5" value="接力卡：&lt;br&gt;2费，切换到下一个角色，&lt;br&gt;并将当前角色的充能给到下一个角色&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1560" y="1580" width="290" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="B0AEZhPZEqBKlYOn6z56-6" value="道馆：&lt;br&gt;2费，切换下一个角色不视为快速行动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B0AEZhPZEqBKlYOn6z56-6" value="道馆：&lt;br&gt;2费，切换下一个角色不视为快速行动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1560" y="2050" width="290" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="B0AEZhPZEqBKlYOn6z56-7" value="医馆：&lt;br&gt;2费，每回合治疗场上角色2点hp，持续2回合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B0AEZhPZEqBKlYOn6z56-7" value="医馆：&lt;br&gt;2费，每回合治疗场上角色2点hp，持续2回合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1980" y="2050" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="iqc3dtCRgfqG9h4oya7Q-1" value="土蛤蟆&lt;br&gt;2级 10血&lt;br&gt;特性：威慑，降低敌人攻击&lt;br&gt;木属性&lt;br&gt;&lt;br&gt;故事：&lt;br&gt;很少现身，但一旦发怒，有时连大地都能毁灭&lt;br&gt;&lt;br&gt;普攻：龙爪，消耗2费，造成2点物理伤害&lt;br&gt;技能1：龙卷，消耗3费，造成2点木属性伤害，并且每使用一次，伤害加1&lt;br&gt;大招：龙怒，消耗3费，3能量，造成4点木属性伤害，返还2点充能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1630" width="290" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
