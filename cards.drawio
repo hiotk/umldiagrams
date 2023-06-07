@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T07:06:31.389Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0sBqzWFi3lnya-tuCvES" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T07:07:00.056Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1Vi62Zvdgk7znflpg42I" version="21.3.7" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
     <mxGraphModel dx="3388" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1128,7 +1128,7 @@
         <mxCell id="3dsZxtLpwyuW_hVhZeS4-71" value="火鸟&lt;br&gt;2级 7血&lt;br&gt;特性：火之新生，第一次被击倒时复活，并给3点生命&lt;br&gt;火属性&lt;br&gt;&lt;br&gt;故事：&lt;br&gt;可以操纵火焰的传说灵兽，据说能从火焰中重生&lt;br&gt;&lt;br&gt;普攻：&lt;br&gt;普攻：火盾，消耗2费，生成火盾2回合，免疫1点伤害，并能使得火属性伤害+1&lt;br&gt;技能1：火之翼，消耗3费，造成3点火焰伤害&lt;br&gt;技能2：天火，消耗3费，召唤陨石到场上，持续两回合，每回合对对方造成1点火属性伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="2150" width="290" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="3dsZxtLpwyuW_hVhZeS4-72" value="雷鸟&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3dsZxtLpwyuW_hVhZeS4-72" value="雷鸟&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2级 7血&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;特性：火之新生，第一次被击倒时复活，并给3点生命&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;火属性&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;故事：&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;可以操纵火焰的传说灵兽，据说能从火焰中重生&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;普攻：&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;普攻：火盾，消耗2费，生成火盾2回合，免疫1点伤害，并能使得火属性伤害+1&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;技能1：火之翼，消耗3费，造成3点火焰伤害&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;技能2：天雷，消耗3费，召唤陨石到场上，持续两回合，每回合对对方造成1点火属性伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="2150" width="290" height="470" as="geometry" />
         </mxCell>
         <mxCell id="3dsZxtLpwyuW_hVhZeS4-73" value="冰鸟&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
