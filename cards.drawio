@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T17:28:06.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zTGNbLDcCxxEo6xVd-hy" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T15:49:05.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Bih4n4spUMN6_atwaf-C" version="21.3.7" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
     <mxGraphModel dx="3915" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1140,9 +1140,6 @@
         <mxCell id="3dsZxtLpwyuW_hVhZeS4-76" value="花灵&lt;br&gt;3级 10血&lt;br&gt;木属性&lt;br&gt;灵&lt;br&gt;故事：&lt;br&gt;常常聚集在一起跳舞，唱美丽动听的歌&lt;br&gt;特性：轻巧舞步，对于血量低于一半的角色，治愈能力加+1&lt;br&gt;普攻：消耗2费，治愈，回复一位角色2点血&lt;br&gt;技能2：花之舞，消耗3费，对对方造成2点木属性伤害，解除自己角色的异常状态&lt;br&gt;技能3：绽放，消耗3费3能量，全员回复4点生命。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-760" y="3210" width="290" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="3dsZxtLpwyuW_hVhZeS4-78" value="火灵" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-330" y="3230" width="290" height="470" as="geometry" />
-        </mxCell>
         <mxCell id="sGzJf6pcE_rJ0hst8sau-1" value="大钢蛇" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="3740" width="290" height="470" as="geometry" />
         </mxCell>
@@ -1203,22 +1200,22 @@
         <mxCell id="Hbo6Y5as3fw228tz0P7n-17" value="疗伤馆：&lt;br&gt;2费，每回合治疗场下角色2点hp，持续2回合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2380" y="2590" width="290" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="Hbo6Y5as3fw228tz0P7n-18" value="九尾狐" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-740" y="3740" width="290" height="470" as="geometry" />
+        <mxCell id="Hbo6Y5as3fw228tz0P7n-18" value="九尾狐&lt;br&gt;3级 10血&lt;br&gt;火属性&lt;br&gt;妖&lt;br&gt;故事&lt;br&gt;据说狐狸每修炼100年，就会长出一条尾巴&lt;br&gt;特性：魅惑，在魅惑状态下受到的伤害减1，造成的伤害加1&lt;br&gt;普攻：魅惑，2费，进入魅惑状态&lt;br&gt;技能1：狐火，3费，造成3点火属性伤害&lt;br&gt;技能2：业火，3费2能量，造成2点火属性伤害，生成业火，持续两回合，每回合造成2点火属性伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="3200" width="290" height="470" as="geometry" />
         </mxCell>
         <mxCell id="Hbo6Y5as3fw228tz0P7n-19" value="捣蛋鬼&lt;br&gt;3级 10血&lt;br&gt;火属性&lt;br&gt;特性：鬼眼，上场后查看对方手牌&lt;br&gt;鬼&lt;br&gt;故事：&lt;br&gt;喜欢调皮捣蛋的幽灵&lt;br&gt;普攻：捣蛋，消耗2费造成3点伤害&lt;br&gt;技能1：鬼火，消耗3费，造成2点火伤害，并使得对方角色无法下场&lt;br&gt;技能2：诅咒，消耗3费2能量，造成5点火伤害，并使对方陷入混乱状态，有1/2概率自己攻击自己" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="2690" width="290" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="WKIaAZnGtePUkgDNqfMr-1" value="替身卡：&lt;br&gt;3费，抵挡下一次伤害" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WKIaAZnGtePUkgDNqfMr-1" value="替身卡：&lt;br&gt;3费，抵挡下一次伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1960" y="1580" width="290" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="WKIaAZnGtePUkgDNqfMr-2" value="狼人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="3210" width="290" height="470" as="geometry" />
+        <mxCell id="WKIaAZnGtePUkgDNqfMr-2" value="狼人&lt;br&gt;3级 10血&lt;br&gt;土属性&lt;br&gt;魔&lt;br&gt;故事&lt;br&gt;传说中在月圆之夜会化身为人，嗷呜！&lt;br&gt;特性：不屈，当自身处于异常状态时，攻击力加倍&lt;br&gt;普攻：狩猎之爪，2费，造成2点物理伤害&lt;br&gt;技能1：夜之牙，3费，造成3点土属性伤害&lt;br&gt;技能2：狂暴，3费2能量，连续两轮攻击，每轮3点土属性伤害，并充能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="3200" width="290" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="WKIaAZnGtePUkgDNqfMr-3" value="清醒药：&lt;br&gt;1费，回复混乱状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WKIaAZnGtePUkgDNqfMr-3" value="清醒药：&lt;br&gt;1费，回复混乱状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2380" y="3507" width="290" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="WKIaAZnGtePUkgDNqfMr-4" value="铠甲虫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WKIaAZnGtePUkgDNqfMr-4" value="铠甲虫" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="3740" width="290" height="470" as="geometry" />
         </mxCell>
       </root>
