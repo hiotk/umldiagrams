@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T15:49:05.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Bih4n4spUMN6_atwaf-C" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-09T17:15:17.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ay_TWmmpveSyU5cIzUwr" version="21.3.7" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
-    <mxGraphModel dx="3915" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4168" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1140,7 +1140,7 @@
         <mxCell id="3dsZxtLpwyuW_hVhZeS4-76" value="花灵&lt;br&gt;3级 10血&lt;br&gt;木属性&lt;br&gt;灵&lt;br&gt;故事：&lt;br&gt;常常聚集在一起跳舞，唱美丽动听的歌&lt;br&gt;特性：轻巧舞步，对于血量低于一半的角色，治愈能力加+1&lt;br&gt;普攻：消耗2费，治愈，回复一位角色2点血&lt;br&gt;技能2：花之舞，消耗3费，对对方造成2点木属性伤害，解除自己角色的异常状态&lt;br&gt;技能3：绽放，消耗3费3能量，全员回复4点生命。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-760" y="3210" width="290" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="sGzJf6pcE_rJ0hst8sau-1" value="大钢蛇" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sGzJf6pcE_rJ0hst8sau-1" value="大钢蛇&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事&lt;br&gt;在地下日积月累的挖掘之后，身体变得和钢铁一样坚硬&lt;br&gt;特性：坚硬，受到物理伤害减1&lt;br&gt;普攻：冲撞，3费，造成3点物理伤害&lt;br&gt;技能1：变硬，3费，生成护盾，抵消2点伤害，持续3回合&lt;br&gt;技能2：铁尾，3费3能量，造成5点金属性伤害，并使自身攻击+1，持续2回合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="3740" width="290" height="470" as="geometry" />
         </mxCell>
         <mxCell id="sGzJf6pcE_rJ0hst8sau-3" value="节奏快，克制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1215,8 +1215,50 @@
         <mxCell id="WKIaAZnGtePUkgDNqfMr-3" value="清醒药：&lt;br&gt;1费，回复混乱状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2380" y="3507" width="290" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="WKIaAZnGtePUkgDNqfMr-4" value="铠甲虫" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="WKIaAZnGtePUkgDNqfMr-4" value="铠甲虫&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却非常争强好胜&lt;br&gt;特性：毅力，当对手&lt;br&gt;普攻：角撞：3费，造成3点物理伤害&lt;br&gt;技能1：" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="124" y="3740" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-1" value="将军蟹&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="3730" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-2" value="龙虾兵&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="4300" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-3" value="红鲤鱼&lt;br&gt;2级 6血&lt;br&gt;水属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;随处可见的水中生物，虽然弱小但据说能化为龙&lt;br&gt;特性：悠游，上场后，自己抽2张牌&lt;br&gt;弹跳： 2费，造成1点水属性伤害&lt;br&gt;鲤鱼出水：3费造成3点水属性伤害&lt;br&gt;潜水：3费2能量，造成4点水属性伤害，并能免疫接下来的一次伤害" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="4300" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-4" value="增援卡：&lt;br&gt;2费，每回合多得2张牌，持续2回合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2357.5" y="1575" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-5" value="蓝金鱼&lt;br&gt;2级 6血&lt;br&gt;水属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;随处可见的水中生物，虽然弱小但据说能化为龙&lt;br&gt;特性：悠游，上场后，自己抽2张牌&lt;br&gt;弹跳： 2费，造成1点水属性伤害&lt;br&gt;鲤鱼出水：3费造成3点水属性伤害&lt;br&gt;潜水：3费2能量，造成4点水属性伤害，并能免疫接下来的一次伤害" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="4290" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-6" value="蚂蚱&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="4920" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-7" value="蟋蟀&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="4920" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-8" value="蝈蝈&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="4920" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-10" value="天牛&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="5490" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-11" value="兵蚁&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="5480" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-12" value="蝼蛄&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="5460" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-13" value="珍珠贝&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="6040" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-14" value="铁壳蜗牛&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="6040" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-15" value="双刀螳螂&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="6040" width="290" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
