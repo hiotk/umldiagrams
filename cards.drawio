@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T03:26:43.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="leyhOjUi2U8fXl88rzsm" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T03:28:53.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="X8zcVAD5CS34aWLcyXYX" version="21.3.7" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
-    <mxGraphModel dx="4168" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3990" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1277,6 +1277,12 @@
         </mxCell>
         <mxCell id="2-e3iUfbZgGHng_0SPEk-21" value="刃牙虎&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1190" y="6040" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-22" value="圣骑士&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;灵&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="6590" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-23" value="黑骑士&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;魔&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="7170" width="290" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
