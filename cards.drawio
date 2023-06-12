@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T16:39:51.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IHsudH25edS5rwWi7sNq" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T16:41:52.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="UcaIsEvRaM_Xv05G0FS-" version="21.3.8" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
     <mxGraphModel dx="4742" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1198,7 +1198,7 @@
           <mxGeometry x="-2357" y="2040" width="290" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Hbo6Y5as3fw228tz0P7n-17" value="疗养馆：&lt;br&gt;2费，每回合治疗场下角色2点hp，持续2回合" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2380" y="2590" width="290" height="400" as="geometry" />
+          <mxGeometry x="-2360" y="2590" width="290" height="400" as="geometry" />
         </mxCell>
         <mxCell id="Hbo6Y5as3fw228tz0P7n-18" value="九尾狐&lt;br&gt;3级 10血&lt;br&gt;火属性&lt;br&gt;妖&lt;br&gt;故事&lt;br&gt;据说狐狸每修炼100年，就会长出一条尾巴&lt;br&gt;特性：魅惑，在魅惑状态下受到的伤害减1，造成的伤害加1&lt;br&gt;普攻：魅惑，2费，进入魅惑状态&lt;br&gt;技能1：狐火，3费，造成3点火属性伤害&lt;br&gt;技能2：业火，3费2能量，造成2点火属性伤害，生成业火，持续两回合，每回合造成2点火属性伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="3200" width="290" height="470" as="geometry" />
@@ -1319,6 +1319,12 @@
         </mxCell>
         <mxCell id="15MoBv-xq8j_gzqXus3k-2" value="急救包：&lt;br&gt;2费，抽到一张药品卡，并且每用一次药品，会再次抽一张药品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2750" y="2050" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="15MoBv-xq8j_gzqXus3k-3" value="馆主卡：&lt;br&gt;2费，每使用一次药品，获得一个行动点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2750" y="2590" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="15MoBv-xq8j_gzqXus3k-4" value="馆主卡：&lt;br&gt;1费，新上场的角色如果没有充能，获得一点充能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2750" y="3040" width="290" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
