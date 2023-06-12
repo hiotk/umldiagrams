@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T16:36:44.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="06VHheHi-6IdPnxL0ovp" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T16:39:51.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IHsudH25edS5rwWi7sNq" version="21.3.8" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
     <mxGraphModel dx="4742" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1316,6 +1316,9 @@
         </mxCell>
         <mxCell id="15MoBv-xq8j_gzqXus3k-1" value="洗牌卡：&lt;br&gt;3费，将所有手牌返回牌组，重新发牌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2760" y="1570" width="290" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="15MoBv-xq8j_gzqXus3k-2" value="急救包：&lt;br&gt;2费，抽到一张药品卡，并且每用一次药品，会再次抽一张药品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2750" y="2050" width="290" height="400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
