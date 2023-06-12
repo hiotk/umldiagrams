@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T03:00:35.815Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qNPOlDPCONNYT89kbVEA" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T03:19:09.456Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gZVHef4N4A8apbpZapCJ" version="21.3.7" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
-    <mxGraphModel dx="3854" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4312" dy="1313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1254,13 +1254,13 @@
         <mxCell id="2-e3iUfbZgGHng_0SPEk-15" value="双刀螳螂&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;精&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="114" y="6040" width="290" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="2-e3iUfbZgGHng_0SPEk-16" value="雨蛙&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-16" value="雨蛙&lt;br&gt;3级 10血&lt;br&gt;水属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-760" y="6590" width="290" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="2-e3iUfbZgGHng_0SPEk-17" value="树蛙&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-17" value="树蛙&lt;br&gt;3级 10血&lt;br&gt;木属性&lt;br&gt;怪&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-330" y="6580" width="290" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="2-e3iUfbZgGHng_0SPEk-18" value="凤蝶&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;精&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2-e3iUfbZgGHng_0SPEk-18" value="凤蝶&lt;br&gt;3级 10血&lt;br&gt;木属性&lt;br&gt;精&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="114" y="6580" width="290" height="470" as="geometry" />
         </mxCell>
         <mxCell id="2-e3iUfbZgGHng_0SPEk-19" value="蚂蚱&lt;br&gt;3级 10血&lt;br&gt;金属性&lt;br&gt;精&lt;br&gt;特性：咀嚼，对付木属性角色，每次攻击成功回复1点生命&lt;br&gt;故事：&lt;br&gt;往往成群出现，过境之处，寸草之生&lt;br&gt;普攻：虫咬，2费，造成2点物理伤害&lt;br&gt;技能1：虫蚀，3费，造成3点金属性伤害&lt;br&gt;技能2：蝗群，3费3能量，造成3点金属性伤害，召唤一只蝗虫，持续两回合，每次造成1点金伤害" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1298,6 +1298,21 @@
         </mxCell>
         <mxCell id="K3h72F_IGuXoMa3GEhZr-1" value="树人&lt;br&gt;3级 10血&lt;br&gt;木属性&lt;br&gt;魔&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-760" y="7170" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="K3h72F_IGuXoMa3GEhZr-2" value="木偶&lt;br&gt;3级 10血&lt;br&gt;木属性&lt;br&gt;魔&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="7160" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="K3h72F_IGuXoMa3GEhZr-3" value="葫芦娃&lt;br&gt;3级 10血&lt;br&gt;木属性&lt;br&gt;魔&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="7160" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="K3h72F_IGuXoMa3GEhZr-4" value="人参娃&lt;br&gt;3级 10血&lt;br&gt;木属性&lt;br&gt;魔&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="7160" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="K3h72F_IGuXoMa3GEhZr-5" value="虫草&lt;br&gt;3级 10血&lt;br&gt;木属性&lt;br&gt;魔&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="7690" width="290" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="K3h72F_IGuXoMa3GEhZr-6" value="小丑&lt;br&gt;3级 10血&lt;br&gt;木属性&lt;br&gt;魔&lt;br&gt;故事：&lt;br&gt;挥舞着强力的角，虽然是虫却很是骄傲" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="7690" width="290" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
