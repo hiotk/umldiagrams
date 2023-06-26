@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T14:34:15.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="E5sZgEzG-n5jnQFbvntk" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T14:35:43.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KIhVRAD4qmn-UM3oL_zD" version="21.3.8" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
     <mxGraphModel dx="4794" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1358,6 +1358,27 @@
         </mxCell>
         <mxCell id="lxRzdpNdAnWvJDMe70bS-15" value="大招" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="2100" y="1095" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-17" value="换牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="730" width="490" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-19" value="出战" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="780" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-20" value="出战" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2620" y="780" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-21" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="lxRzdpNdAnWvJDMe70bS-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2170" y="940" as="sourcePoint" />
+            <mxPoint x="2220" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-22" value="弹窗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="890" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
