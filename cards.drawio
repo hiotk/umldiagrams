@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T14:42:02.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Oja0Xp0gywD_ppsIM33C" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T14:56:40.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="T26WTOwHzAumr7-KVALC" version="21.3.8" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
-    <mxGraphModel dx="5787" dy="1162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5125" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,10 +269,10 @@
           <mxGeometry x="900" y="1415" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="waJKk4ikB9sFZJaaO0Lk-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="1150" width="250" height="430" as="geometry" />
+          <mxGeometry x="1241" y="1328.5" width="250" height="430" as="geometry" />
         </mxCell>
         <mxCell id="waJKk4ikB9sFZJaaO0Lk-108" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1181" y="1160" width="219" height="70" as="geometry" />
+          <mxGeometry x="1256.5" y="1345" width="219" height="70" as="geometry" />
         </mxCell>
         <mxCell id="waJKk4ikB9sFZJaaO0Lk-109" value="新建卡组" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="1500" width="120" height="60" as="geometry" />
@@ -1399,9 +1399,9 @@
           <mxGeometry x="1885.5" y="1332" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lxRzdpNdAnWvJDMe70bS-47" value="设置出战牌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="1272" width="209" height="28" as="geometry" />
+          <mxGeometry x="1266.5" y="1460" width="209" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="lxRzdpNdAnWvJDMe70bS-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.001;entryY=0.126;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="lxRzdpNdAnWvJDMe70bS-23">
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.001;entryY=0.126;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="lxRzdpNdAnWvJDMe70bS-47" target="lxRzdpNdAnWvJDMe70bS-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1390" y="1290" as="sourcePoint" />
             <mxPoint x="1440" y="1240" as="targetPoint" />
