@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T14:25:35.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Zh8gVFx8wa0V8IpRqtkm" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T14:34:15.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="E5sZgEzG-n5jnQFbvntk" version="21.3.8" type="github">
   <diagram name="第 1 页" id="MNc6gyyGIOkFOuRA8HaN">
-    <mxGraphModel dx="5462" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4794" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1327,13 +1327,37 @@
           <mxGeometry x="-2750" y="3040" width="290" height="400" as="geometry" />
         </mxCell>
         <mxCell id="lxRzdpNdAnWvJDMe70bS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="620" width="400" height="640" as="geometry" />
+          <mxGeometry x="1780" y="617" width="400" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="lxRzdpNdAnWvJDMe70bS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="690" width="100" height="150" as="geometry" />
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-2" value="我方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1860" y="680" width="100" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="lxRzdpNdAnWvJDMe70bS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="690" width="100" height="150" as="geometry" />
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-3" value="对方" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="680" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-4" value="10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="660" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-5" value="15" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2020" y="660" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-10" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;妙蛙种子使出藤编，造成3点伤害&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;这不是很有效&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;小火龙使出火苗，造成6点伤害，这非常有效&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;我：你好，很开心认识你&lt;/div&gt;&lt;div&gt;妙蛙种子使出麻痹粉，小火龙麻痹了&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;对手：你好，你的小火龙很强&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;我：我抽了100抽出来的，你的妙蛙种子也不差&lt;/div&gt;&lt;div&gt;小火龙麻痹了无法使用技能&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="960" width="200" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="1215" width="250" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-12" value="发送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="1212" width="80" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-13" value="普攻" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="965" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-14" value="技能" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="1030" width="55" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lxRzdpNdAnWvJDMe70bS-15" value="大招" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="1095" width="55" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
