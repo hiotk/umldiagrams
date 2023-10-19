@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T03:55:33.651Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="M0nsYMbeHM2EG9gfw3nV" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-19T07:08:21.160Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hDcPRlu0EBv9FB9xsQIR" version="22.0.4" type="github">
   <diagram name="第 1 页" id="x10vL32pnDrrRNiM1H73">
-    <mxGraphModel dx="934" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1986" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VD6LUq0v4wppNUrDIeVJ-1" value="editor(control)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VD6LUq0v4wppNUrDIeVJ-2" value="sceneloader(store)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VD6LUq0v4wppNUrDIeVJ-2" value="sceneloader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VD6LUq0v4wppNUrDIeVJ-3" value="Scene渲染" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -82,6 +82,15 @@
             <mxPoint x="840" y="350" as="sourcePoint" />
             <mxPoint x="780" y="290" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VD6LUq0v4wppNUrDIeVJ-24" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="380" as="sourcePoint" />
+            <mxPoint x="1060" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VD6LUq0v4wppNUrDIeVJ-25" value="output" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="340" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
